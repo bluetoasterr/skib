@@ -1,0 +1,7 @@
+{
+  "name": "Global Role Style (Settings Prototype)",
+  "description": "Client-side appearance settings and custom server emoji preview for Kettu iOS; live username patch pending.",
+  "authors": [{"name": "bluetoasterr", "id": "0"}],
+  "main": "src/index.ts",
+  "vendetta": {"icon": "Palette"}
+}
