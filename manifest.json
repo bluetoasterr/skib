@@ -1,7 +1,0 @@
-{
-  "name": "Global Role Style (Experimental)",
-  "description": "Client-only experimental username gradient and icon for Kettu iOS.",
-  "authors": [{"name": "bluetoasterr", "id": "0"}],
-  "main": "index.js",
-  "vendetta": {"icon": "Palette"}
-}
